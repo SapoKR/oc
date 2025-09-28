@@ -16,7 +16,9 @@
                 "file": "index.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           },
           {
@@ -25,10 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "프로필/붉은곳/도레미.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "도레미"
             }
           }
         ],
@@ -51,8 +55,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -67,7 +74,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -75,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
             }
           }
         ]
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "프로필/붉은곳/도레미.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +117,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "도레미 의 백링크"
             }
           },
           {
@@ -115,10 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "프로필/붉은곳/도레미.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "도레미 의 나가는 링크"
             }
           },
           {
@@ -128,8 +143,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
             }
           },
           {
@@ -138,8 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "category-folder/Some note.md"
-              }
+                "file": "프로필/붉은곳/도레미.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "도레미 의 개요"
             }
           }
         ]
@@ -151,20 +175,41 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
+    "프로필/MSTN-A/카딘.md",
+    "프로필/MSTN-A/탈리온.md",
+    "프로필/MSTN-A/토마토주스.md",
+    "프로필/MSTN-A/index.md",
+    "프로필/MSTN-B/네논.md",
+    "프로필/MSTN-B/사포.md",
+    "프로필/R/7755R.md",
+    "프로필/RBX/라그나크 루빌라.md",
+    "프로필/RBX/비스무트.md",
+    "프로필/RBX/아니.md",
+    "프로필/RBX/크로.md",
+    "프로필/RBX/크블.md",
+    "프로필/RBX/화이버.md",
+    "프로필/RBX/index.md",
+    "프로필/프로필.md",
+    "프로필/35.md",
+    "프로필/붉은곳/index.md",
+    "프로필/붉은곳/도레미.md",
+    "프로필/붉은곳/대해부자.md",
+    "프로필/R/index.md",
+    "index.md",
     "category-folder/index.md",
     "category-folder/Some note.md",
-    "index.md",
     "category-folder"
   ]
 }
