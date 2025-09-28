@@ -13,30 +13,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "프로필/MSTN-A/탈리온.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "탈리온"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d4838676acca07a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54c17b9d3c9a0aa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "설정/특이점 (Singularity)/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "index"
             }
-          },
-          {
-            "id": "2d8837e6263008e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "프로필/붉은곳/도레미.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "도레미"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로필/붉은곳/도레미.md",
+                "file": "프로필/MSTN-A/탈리온.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "도레미 의 백링크"
+              "title": "탈리온 의 백링크"
             }
           },
           {
@@ -128,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로필/붉은곳/도레미.md",
+                "file": "프로필/MSTN-A/탈리온.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "도레미 의 나가는 링크"
+              "title": "탈리온 의 나가는 링크"
             }
           },
           {
@@ -157,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로필/붉은곳/도레미.md",
+                "file": "프로필/MSTN-A/탈리온.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "도레미 의 개요"
+              "title": "탈리온 의 개요"
             }
           }
         ]
@@ -185,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d8837e6263008e3",
+  "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
     "프로필/MSTN-A/카딘.md",
     "프로필/MSTN-A/탈리온.md",
@@ -193,23 +198,37 @@
     "프로필/MSTN-A/index.md",
     "프로필/MSTN-B/네논.md",
     "프로필/MSTN-B/사포.md",
+    "프로필/R/132R.md",
     "프로필/R/7755R.md",
-    "프로필/RBX/라그나크 루빌라.md",
-    "프로필/RBX/비스무트.md",
-    "프로필/RBX/아니.md",
-    "프로필/RBX/크로.md",
-    "프로필/RBX/크블.md",
-    "프로필/RBX/화이버.md",
-    "프로필/RBX/index.md",
     "프로필/프로필.md",
     "프로필/35.md",
-    "프로필/붉은곳/index.md",
-    "프로필/붉은곳/도레미.md",
-    "프로필/붉은곳/대해부자.md",
+    "프로필/73B.md",
+    "프로필/RBX/index.md",
+    "프로필/RBX/화이버.md",
+    "프로필/RBX/크블.md",
+    "프로필/RBX/크로.md",
+    "프로필/RBX/아니.md",
+    "프로필/RBX/비스무트.md",
+    "프로필/RBX/라그나크 루빌라.md",
     "프로필/R/index.md",
-    "index.md",
-    "category-folder/index.md",
-    "category-folder/Some note.md",
+    "설정/퍼셉트론 (Perceptron)/index.md",
+    "설정/특이점 (Singularity)/index.md",
+    "설정/index.md",
+    "설정/퍼셉트론 (Perceptron)/장소/index.md",
+    "설정/퍼셉트론 (Perceptron)/장소/집.md",
+    "설정/특이점 (Singularity)/장소/index.md",
+    "프로필/붉은곳/대해부자.md",
+    "설정/퍼셉트론 (Perceptron)/장소",
+    "설정/퍼셉트론 (Perceptron)",
+    "개인 프로젝트/퍼셉트론 (Perceptron)",
+    "개인 프로젝트",
+    "에셋/Pasted image 20250929025059.png",
+    "에셋/Pasted image 20250929024623.png",
+    "에셋",
+    "에셋/Pasted image 20250929024458.png",
+    "설정/특이점 (Singularity)/장소",
+    "설정/특이점 (Singularity)",
+    "설정",
     "category-folder"
   ]
 }
