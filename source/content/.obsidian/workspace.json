@@ -13,50 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로필/프로필.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "프로필"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d4838676acca07a7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "54c17b9d3c9a0aa1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "설정/특이점 (Singularity)/index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "index"
             }
-          },
-          {
-            "id": "23bdb44b25350f3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "프로필/붉은곳/도레미.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "도레미"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,6 +172,22 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "프로필/index.md",
+    "index.md",
+    "프로필/R/7755R.md",
+    "프로필/R/132R.md",
+    "프로필/MSTN-B/index.md",
+    "프로필/MSTN-B/사포.md",
+    "프로필/MSTN-B/네논.md",
+    "프로필/MSTN-A/탈리온.md",
+    "프로필/MSTN-A/토마토주스.md",
+    "프로필/MSTN-A/카딘.md",
+    "프로필/MSTN-A/index.md",
+    "프로필/붉은곳/index.md",
+    "프로필/붉은곳/대해부자.md",
+    "프로필/붉은곳/도레미.md",
+    "프로필/붉은곳/크로.md",
+    "프로필/RBX/크블.md",
     "프로필/35.md",
     "프로필/73B.md",
     "프로필/RBX/index.md",
@@ -214,28 +195,12 @@
     "프로필/RBX/비스무트.md",
     "프로필/RBX/아니.md",
     "프로필/RBX/화이버.md",
-    "프로필/RBX/크블.md",
-    "프로필/붉은곳/대해부자.md",
-    "프로필/붉은곳/도레미.md",
-    "프로필/MSTN-A/토마토주스.md",
-    "프로필/MSTN-B/네논.md",
-    "프로필/MSTN-B/사포.md",
-    "프로필/R/7755R.md",
-    "프로필/R/132R.md",
-    "프로필/MSTN-A/카딘.md",
-    "프로필/MSTN-A/탈리온.md",
     "에셋/Pasted image 20250929025059.png",
     "에셋/Pasted image 20250929024458.png",
     "에셋/Pasted image 20250929024623.png",
-    "프로필/MSTN-A/index.md",
     "설정/퍼셉트론 (Perceptron)/index.md",
     "설정/퍼셉트론 (Perceptron)/장소/index.md",
-    "프로필/프로필.md",
-    "프로필/RBX/크로.md",
     "프로필/R/index.md",
-    "설정/특이점 (Singularity)/index.md",
-    "설정/index.md",
-    "설정/퍼셉트론 (Perceptron)/장소/집.md",
     "설정/퍼셉트론 (Perceptron)/장소",
     "설정/퍼셉트론 (Perceptron)",
     "개인 프로젝트/퍼셉트론 (Perceptron)",

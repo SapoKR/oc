@@ -1,4 +1,5 @@
 {
   "attachmentFolderPath": "에셋",
-  "spellcheck": false
+  "spellcheck": false,
+  "alwaysUpdateLinks": true
 }
