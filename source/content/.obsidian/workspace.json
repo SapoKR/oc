@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로필/RBX/화이버.md",
+                "file": "세계관/MSTN-A/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "화이버"
+              "title": "index"
             }
           }
         ]
@@ -232,9 +232,12 @@
   "active": "54c17b9d3c9a0aa1",
   "lastOpenFiles": [
     "프로필/MSTN-A/탈리온.md",
+    "세계관/MSTN-A/index.md",
+    "설정/특이점 (Singularity)/장소/index.md",
+    "설정/특이점 (Singularity)/스토리/1. 어서오세요. 반갑습니다..md",
+    "프로필/RBX/화이버.md",
     "프로필/MSTN-A/카딘.md",
     "프로필/R/7755R/러스티카.md",
-    "프로필/RBX/화이버.md",
     "프로필/RBX/크블.md",
     "프로필/R/7755R/루벤티아.md",
     "프로필/MSTN-B/사포.md",
@@ -254,9 +257,6 @@
     "프로필/R/7755R/index.md",
     "프로필/R/132R/index.md",
     "프로필/R/132R/R1.md",
-    "프로필/R/132R/R2.md",
-    "프로필/R/index.md",
-    "프로필/index.md",
     "프로필/R/132R",
     "프로필/R/7755R",
     "설정/특이점 (Singularity)/스토리",
